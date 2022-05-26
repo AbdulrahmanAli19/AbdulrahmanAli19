@@ -1,7 +1,8 @@
 # Hi there, I'm Abdulrahman Ali 👋 
 
+## I’m a mobile developer who finds it fun to build new applications 
 
-- 🌱 I’m currently studying native android development at ITI Suez Canal 
+- 🌱 I’m currently studying native mobile development at ITI Suez Canal 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about Hilt - Dagger
 - ⚡ Fun fact: I love to draw and play guitar / estimation
