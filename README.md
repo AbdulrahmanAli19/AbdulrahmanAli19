@@ -14,7 +14,7 @@
 [<img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="xcode" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/xcode/xcode-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="swift" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/swift/swift-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="github" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />][]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
 
 <br />
