@@ -1,6 +1,5 @@
 # Hi there, I'm Abdulrahman Ali 👋 
 
-## I'm a Husband, Father, Developer, and Teacher!!
 
 - 🌱 I’m currently studying native android development at ITI Suez Canal 
 - 👯 I’m looking to collaborate with other content creators
