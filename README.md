@@ -7,6 +7,8 @@
 - 🥅 2022 Goals: Learn more about Hilt - Dagger
 - ⚡ Fun fact: I love to draw and play guitar / estimation
 - 📫 How to reach me **Abdulrahman.ali19@outlook.com**
+- 📄 Know about my experiences [shorturl.at/pILPQ](shorturl.at/pILPQ)
+
 
 
 <h3 align="left">Connect with me:</h3>
