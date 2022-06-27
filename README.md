@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently studying native mobile development 9 month diploma at ITI Suez Canal 
 - 👯 I’m looking to collaborate with other mobile developer
-- 🥅 2022 Goals: Learn more about Hilt - Dagger
+- 🥅 2022 Goals: Learn more about dependency injection
 - ⚡ Fun fact: I love to draw and play guitar / estimation
 - 📫 How to reach me **Abdulrahman.ali19@outlook.com**
 - 📄 Know about my experiences [**resume**](https://drive.google.com/file/d/1Vz6KT4ClHu7M1qecO1fa1-t2k0Kr_K5o/view?usp=sharing)
