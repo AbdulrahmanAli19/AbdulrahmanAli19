@@ -7,7 +7,7 @@
 - 🥅 2022 Goals: Learn more about dependency injection
 - ⚡ Fun fact: I love to draw and play guitar / estimation
 - 📫 How to reach me **Abdulrahman.ali19@outlook.com**
-- 📄 Know about my experiences [**resume**](https://drive.google.com/file/d/1Vz6KT4ClHu7M1qecO1fa1-t2k0Kr_K5o/view?usp=sharing)
+- 📄 Know about my experiences [**resume**](https://docs.google.com/document/d/1mwmkZjyb8v4K0Bs_x8xrwuRFecyCCLqw4sNIMUnlOYY/edit?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
