@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently looking for full time navtive android vacancy
 - 👯 I’m looking to collaborate with other mobile developer
-- 🥅 2022 Goals: Learn more about dependency injection
+- 🥅 2022 Goals: Learn more about jetpack compose
 - ⚡ Fun fact: I love to draw and play guitar / estimation
 - 📫 How to reach me **Abdulrahman.ali19@outlook.com**
 - 📄 Know about my experiences [**resume**](https://docs.google.com/document/d/1mwmkZjyb8v4K0Bs_x8xrwuRFecyCCLqw4sNIMUnlOYY/edit?usp=sharing)
