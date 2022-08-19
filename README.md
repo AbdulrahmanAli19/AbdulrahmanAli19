@@ -2,7 +2,7 @@
 
 ## I’m a mobile developer who finds it fun to build new applications 
 
-- 🌱 I’m currently studying native mobile development 9 month diploma at ITI Suez Canal 
+- 🌱 I’m currently looking for full time navtive android vacancy
 - 👯 I’m looking to collaborate with other mobile developer
 - 🥅 2022 Goals: Learn more about dependency injection
 - ⚡ Fun fact: I love to draw and play guitar / estimation
