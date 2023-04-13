@@ -4,10 +4,11 @@
 
 - 🌱 I’m currently looking for full time navtive android vacancy
 - 👯 I’m looking to collaborate with other mobile developer
-- 🥅 2022 Goals: Learn more about jetpack compose
+- 🥅 2023 Goals: Learn more about jetpack compose
 - ⚡ Fun fact: I love to draw and play guitar / estimation
 - 📫 How to reach me **Abdulrahman.ali19@outlook.com**
 - 📄 Know about my experiences [**resume**](https://docs.google.com/document/d/1jixelu094xw_fUdbtQ59xB-7x6iENd5DQ-pgWo8lzAU/edit?usp=sharing)
+- 🗄️ My other github account [**AbdulrahmanAli1**](https://github.com/AbdulrahmanAli1)
 
 
 <h3 align="left">Connect with me:</h3>
