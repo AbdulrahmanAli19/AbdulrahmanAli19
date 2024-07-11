@@ -2,13 +2,13 @@
 
 ## I’m a mobile developer who finds it fun to build new applications 
 
-- 🌱 I’m currently looking for full time navtive android vacancy
+- 🌱 I’m currently looking for full-time native Android vacancy
 - 👯 I’m looking to collaborate with other mobile developer
-- 🥅 2023 Goals: Learn more about jetpack compose
-- ⚡ Fun fact: I love to draw and play guitar / estimation
+- 🥅 2024 Goals: Learn more about jetpack compose
+- ⚡ Fun fact: I love to draw and play guitar/estimation
 - 📫 How to reach me **Abdulrahman.ali19@outlook.com**
 - 📄 Know about my experiences [**resume**](https://docs.google.com/document/d/1jixelu094xw_fUdbtQ59xB-7x6iENd5DQ-pgWo8lzAU/edit?usp=sharing)
-- 🗄️ My other github account [**AbdulrahmanAli1**](https://github.com/AbdulrahmanAli1)
+- 🗄️ My other GitHub account [**AbdulrahmanAli1**](https://github.com/AbdulrahmanAli1)
 
 
 <h3 align="left">Connect with me:</h3>
