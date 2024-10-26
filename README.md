@@ -7,7 +7,7 @@
 - 🥅 2024 Goals: Learn more about jetpack compose
 - ⚡ Fun fact: I love to draw and play guitar/estimation
 - 📫 How to reach me **Abdulrahman.ali19@outlook.com**
-- 📄 Know about my experiences [**resume**](https://docs.google.com/document/d/1jixelu094xw_fUdbtQ59xB-7x6iENd5DQ-pgWo8lzAU/edit?usp=sharing)
+- 📄 Know about my experiences [**resume**](https://docs.google.com/document/d/1jixelu094xw_fUdbtQ59xB-7x6iENd5DQ-pgWo8lzAU/edit?usp=sharing), [**Abdulrahman**](https://abdulrahmanali19.github.io/resume/)
 - 🗄️ My other GitHub account [**AbdulrahmanAli1**](https://github.com/AbdulrahmanAli1)
 
 
