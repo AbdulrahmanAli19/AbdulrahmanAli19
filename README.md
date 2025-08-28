@@ -1,33 +1,60 @@
-# Hi there, I'm Abdulrahman Ali 👋 
+# Hi there, I'm Abdulrahman Ali 👋  
 
-## I’m a mobile developer who finds it fun to build new applications 
+## 🚀 Mobile Developer | Android (Kotlin/Java) | KMP & CMP  
 
-- 🌱 I’m currently looking for full-time native Android vacancy
-- 👯 I’m looking to collaborate with other mobile developer
-- 🥅 2024 Goals: Learn more about jetpack compose
-- ⚡ Fun fact: I love to draw and play guitar/estimation
-- 📫 How to reach me **Abdulrahman.ali19@outlook.com**
-- 📄 Know about my experiences [**resume**](https://docs.google.com/document/d/1jixelu094xw_fUdbtQ59xB-7x6iENd5DQ-pgWo8lzAU/edit?usp=sharing), [**Abdulrahman**](https://abdulrahmanali19.github.io/resume/)
-- 🗄️ My other GitHub account [**AbdulrahmanAli1**](https://github.com/AbdulrahmanAli1)
+Passionate **mobile developer** with expertise in building high-quality Android apps using **Kotlin & Jetpack Compose**.  
+Exploring the future of cross-platform development with **Kotlin Multiplatform (KMP)** and **Compose Multiplatform (CMP)**, and I enjoy experimenting with **Flutter**.
 
+- 🤝 Open to collaborating on **mobile apps & open-source projects**  
+- 🎯 **2025 Goal:** Master **Jetpack Compose & Kotlin Multiplatform**  
+- 🎸 Fun fact: I love playing the **guitar**, drawing, and exploring creative outlets  
+- 📫 Reach me at: [**Abdulrahman.ali19@outlook.com**](mailto:Abdulrahman.ali19@outlook.com)  
+- 📄 Check out my experiences: [**Resume (Google Doc)**](https://docs.google.com/document/d/1GzP0TYFR1rWMcL3taFlXaOq7qeivOdvcuvhZo2gQzas/edit?tab=t.0) | [**Portfolio Resume**](https://abdulrahmanali19.github.io/resume/)  
 
-<h3 align="left">Connect with me:</h3>
+## 🌐 Connect with me  
 <p align="left">
-<a href="https://linkedin.com/in/abdulrahmanali19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulrahmanali19/" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/abdulrahmanali19/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
 </p>
 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/androidstudio/androidstudio-original.svg" alt="android" width="40" height="40"/> </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://www.github.com/" target="_blank" rel="noreferrer"> <img src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../releases/preview/2012/png/iconmonstr-github-3.png&r=255&g=255&b=255" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" alt="xd" width="40" height="40"/> </a
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-<p align="left"> <a> <img align="left" alt="AbdulrahmanAli19's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AbdulrahmanAli19&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /> </a>
+## 🛠️ Languages & Tools  
+<p align="left"> 
+  <a href="https://developer.android.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/> </a>
+  <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40"/> </a> 
+  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/> </a>
+  <a href="https://kotlinlang.org/lp/multiplatform/" target="_blank"> <img src="https://gist.githubusercontent.com/AbdulrahmanAli19/9c1d4253d6c9a1d7c82951353a2c0abe/raw/kotlin-multiplatform.svg" width="40" height="40"/> </a>
+  <a href="https://www.jetbrains.com/lp/compose-multiplatform/" target="_blank"> <img src="https://gist.githubusercontent.com/AbdulrahmanAli19/9c1d4253d6c9a1d7c82951353a2c0abe/raw/compose-multiplatform.svg" width="40" height="40"/> </a>
+  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/> </a>
+  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> </a>
+  <a href="https://github.com/" target="_blank"> 
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn-icons-png.flaticon.com/512/25/25231.png">
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn-icons-png.flaticon.com/512/733/733553.png">
+      <img alt="GitHub" width="40" height="40" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
+    </picture>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" width="40" height="40"/> </a>
+  <a href="https://figma.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/> </a>
 </p>
+
+## 📊 GitHub Stats  
+<div align="center">
+  <table style="border: none; border-collapse: collapse;">
+    <tr>
+      <td>
+        <a href="https://github.com/AbdulrahmanAli19">
+          <img height="180" src="https://github-readme-stats.vercel.app/api?username=AbdulrahmanAli19&show_icons=true&theme=date_night" alt="Abdulrahman's GitHub stats"/>
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://github.com/AbdulrahmanAli19">
+          <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanAli19&layout=compact&theme=date_night" alt="Top Langs"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+✨ *“Code, create, and keep learning.”*
