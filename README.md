@@ -9,7 +9,7 @@ Exploring the future of cross-platform development with **Kotlin Multiplatform (
 - 🎯 **2025 Goal:** Master **Jetpack Compose & Kotlin Multiplatform**  
 - 🎸 Fun fact: I love playing the **guitar**, drawing, and exploring creative outlets  
 - 📫 Reach me at: [**Abdulrahman.ali19@outlook.com**](mailto:Abdulrahman.ali19@outlook.com)  
-- 📄 Check out my experiences: [**Resume (Google Doc)**](https://docs.google.com/document/d/1GzP0TYFR1rWMcL3taFlXaOq7qeivOdvcuvhZo2gQzas/edit?tab=t.0) | [**Portfolio Resume**](https://abdulrahmanali19.github.io/resume/)  
+- 📄 Check out my experiences: [**Resume (Google Doc)**](https://docs.google.com/document/d/1GzP0TYFR1rWMcL3taFlXaOq7qeivOdvcuvhZo2gQzas/edit?tab=t.0) | [**Portfolio Resume**](https://abdulrahmanali19.github.io/resume_kmp/)  
 
 ## 🌐 Connect with me  
 <p align="left">
